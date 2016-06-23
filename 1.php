@@ -6,3 +6,6 @@
  * Time: 10:20
  */
 echo 'init ';
+
+
+echo 'github';
