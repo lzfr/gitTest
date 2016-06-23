@@ -6,3 +6,7 @@
  * Time: 10:20
  */
 echo 'rebase 1';
+
+echo 'rebase change 1';
+
+echo 'rebase change 2';
