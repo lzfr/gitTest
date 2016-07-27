@@ -14,3 +14,6 @@ echo 'rebase changes on master';
 
 echo 'change wind';
 
+echo 'branch 22';
+
+echo 'branch 3';
