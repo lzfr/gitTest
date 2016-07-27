@@ -12,3 +12,5 @@ echo 'rebase change 1';
 echo 'rebase change 2';
 echo 'rebase changes on master';
 
+echo 'change wind';
+
